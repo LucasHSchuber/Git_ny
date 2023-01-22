@@ -1,3 +1,3 @@
-# Git readme-fil
-##### det här är ett test
+# Git readme-fil 
+### Lucas H. Schuber
 ###### klona? Använden följande länk: https://github.com/LucasHSchuber/Git_ny.git
